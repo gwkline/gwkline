@@ -16,18 +16,3 @@ I'm a dynamic and driven Software Engineer passionate about performance optimiza
 ## ⚡ Fun fact
 
 I played Division 1 Men's Lacrosse at the second-winningest program in NCAA history - Go Orange🍊!
-
-## 💻 Skills
-Programming Languages / Frameworks: 
-- Ruby (Rails, Grape)
-- JavaScript/TypeScript (React.JS, Next.JS, Svelte, Sveltekit)
-- Python (Pandas, NumPy, OpenCV)
-- Golang
-- SQL (PostgreSQL)
-- NoSQL (MongoDB)
-  
-Tools: 
-- Git
-- Docker
-- Redis
-- Memcached
