@@ -11,7 +11,7 @@ I'm a dynamic and driven Backend Software Engineer passionate about performance 
 
 - [Email](mailto:gwkline23@gmail.com)
 - [Linkedin](https://linkedin.com/in/gavinkline)
-- Discord (gkline)
+- [Discord](https://discord.com/users/361910844143173632)
 
 ## ⚡ Fun fact
 
