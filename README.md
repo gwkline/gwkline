@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Gavin Kline 👋
 
-<!--
-**gwkline/gwkline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dynamic and driven Backend Software Engineer passionate about performance optimization and API development. I hold a Bachelor of Engineering in Computer Science from Syracuse University.
 
-Here are some ideas to get you started:
+## 💼 Past Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Software Engineer at [Whop](https://whop.com)
+- Software Engineering Intern at CACI Inc (PM IVAS)
+  
+## 📫 How to reach me
+
+- [Email](mailto:gwkline23@gmail.com)
+- [Linkedin](https://linkedin.com/in/gavinkline)
+- Discord (gkline)
+
+## ⚡ Fun fact
+
+I played Division 1 Men's Lacrosse at the second-winningest program in NCAA history - Go Orange🍊!
+
+## 💻 Skills
+Programming Languages / Frameworks: 
+- Ruby (Rails, Grape)
+- JavaScript/TypeScript (React.JS, Next.JS, Svelte, Sveltekit)
+- Python (Pandas, NumPy, OpenCV)
+- Golang
+- SQL (PostgreSQL)
+- NoSQL (MongoDB)
+  
+Tools: 
+- Git
+- Docker
+- Redis
+- Memcached
