@@ -1,6 +1,6 @@
 # Hi there, I'm Gavin Kline 👋
 
-I'm a dynamic and driven Backend Software Engineer passionate about performance optimization and API development. I hold a Bachelor of Engineering in Computer Science from Syracuse University.
+I'm a dynamic and driven Software Engineer passionate about performance optimization and API development. I hold a Bachelor of Engineering in Computer Science from Syracuse University.
 
 ## 💼 Past Experience
 
