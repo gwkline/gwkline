@@ -1,6 +1,6 @@
 # Hi there, I'm Gavin Kline 👋
 
-I'm a dynamic and driven Software Engineer passionate about performance optimization and API development. I hold a Bachelor of Science in Computer Science from Syracuse University.
+I'm a dynamic and driven Software Engineer passionate about performance optimization, API development, and backend engineering in general. I hold a Bachelor of Science in Computer Science from Syracuse University, and am currently working as VP of Software Engineering at [Gorjian Acquisitions](https://gorjianacq.com)
 
 ## 💼 Past Experience
 
