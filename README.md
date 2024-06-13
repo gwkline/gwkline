@@ -1,9 +1,10 @@
 # Hi there, I'm Gavin Kline 👋
 
-I'm a dynamic and driven Software Engineer passionate about performance optimization, API development, and backend engineering in general. I hold a Bachelor of Science in Computer Science from Syracuse University, and am currently working as VP of Software Engineering at [Gorjian Acquisitions](https://gorjianacq.com)
+I'm a dynamic and driven Software Engineer passionate about performance optimization, API development, and backend engineering in general. I hold a Bachelor of Science in Computer Science from Syracuse University, and am currently working as a software engineer at [GovDash](https://govdash.com)
 
 ## 💼 Past Experience
 
+- VP of Software Engineering at [Gorjian Acquisitions](https://gorjianacq.com)
 - Backend Software Engineer at [Whop](https://whop.com)
 - Software Engineering Intern at CACI Inc (PM IVAS)
   
