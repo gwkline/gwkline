@@ -1,6 +1,6 @@
 # Hi there, I'm Gavin Kline 👋
 
-I'm a dynamic and driven Software Engineer passionate about performance optimization, API development, and backend engineering in general. I hold a Bachelor of Science in Computer Science from Syracuse University, and am currently working as Lead Software Engineer at [GovDash](https://govdash.com)
+I'm a software engineer passionate about performance optimization, API development, and backend engineering in general. I hold a Bachelor of Science in Computer Science from Syracuse University, and am currently working as Head of Engineering at [GovDash](https://govdash.com)
 
 ## 💼 Past Experience
 
@@ -10,6 +10,7 @@ I'm a dynamic and driven Software Engineer passionate about performance optimiza
   
 ## 📫 How to reach me
 
+- [X/Twitter](https://x.com/washedkline)
 - [Email](mailto:gwkline23@gmail.com)
 - [Linkedin](https://linkedin.com/in/gavinkline)
 - [Discord](https://discord.com/users/361910844143173632)
